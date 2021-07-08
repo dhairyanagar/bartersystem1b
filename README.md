@@ -1,1 +1,2 @@
-# bartersystem1b
+# barter-app-stage-1
+Login and SignUp
